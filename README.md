@@ -1,6 +1,6 @@
 # WEB102 Prework - Sea Monster App
 
-Submitted by: Nisha Shanmugan
+Submitted by: Nishalini Shanmugan
 
 Sea Monster App is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
@@ -18,13 +18,15 @@ The following **required** functionality is completed:
 The following **optional** features are implemented:
 
 * [x] List anything else that you can get done to improve the app functionality!
+
+Answer: 
 I would add a form to the website where vistors can submit funding for the unfunded games. I would also display what games need more funding out of the unfunded games. 
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
-<img src='https://i.imgur.com/VCRKpws.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/VCRKpws.gif' title='Video Walkthrough' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ScreenToGif 
